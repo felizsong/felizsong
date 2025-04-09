@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+  <h2>🏄🏻‍♀️ Hello World 🏄🏻‍♀️</h2>
 
-<!--
-**felizsong/felizsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
+  <h3>Tech Stack</h3><br>
+  <div class="stack" style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" style="margin: 4px;"> 
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" style="margin: 4px;"><br>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" style="margin: 4px;">
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" style="margin: 4px;">
+</div>
+<br><br>
 
-Here are some ideas to get you started:
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felizsong&layout=compact" style="margin: 10px; display: inline-block;">
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/felizsong"
+  width="500"
+  height="200"
+/>
+</a>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=00BFFF&height=200)
