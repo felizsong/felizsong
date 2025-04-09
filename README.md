@@ -1,5 +1,9 @@
-<div align="center">
+<div align="center"> 
   <h2>🏄🏻‍♀️ Hello World 🏄🏻‍♀️</h2>
+
+<br><br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Great+Vibes&color=32CD32&size=60&center=true&vCenter=true&width=1000&height=100&lines=Welcome&nbsp;&nbsp;&nbsp;to&nbsp;&nbsp;&nbsp;felizsong's&nbsp;&nbsp;&nbsp;GitHub&nbsp;✨)
 
   <br>
   <h3>Tech Stack</h3><br>
